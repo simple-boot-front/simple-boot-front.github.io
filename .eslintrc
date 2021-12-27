@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "indent": [ "error", "tab" ]
+  },
+  "extends": "standard"
+}
